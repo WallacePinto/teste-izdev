@@ -5,6 +5,7 @@
 
 .head {
     background-color: #249ED8;
+    height: 100px;
 }
 
 .style-begin {
@@ -15,16 +16,17 @@
 
 .logo {
     width: 80px;
+    height: 80px;
 }
 
 .logoParagraph {
     color: #FFF;
     font-weight: bolder;
     letter-spacing: 3px;
-    align-self: center;
     font-family: Poppins;
     margin-left: 20px;
-    margin-top: 10px;
+    margin-top: 15px;
+    align-items: center;
 }
 
 .img2 {
@@ -89,4 +91,10 @@
 #aspectoMicose {
     background-color: #E5F4F7;
     margin-top: 100px;
+}
+
+.menu {
+    position: absolute;
+    margin-left: 38%;
+    margin-top: 22px;
 }
