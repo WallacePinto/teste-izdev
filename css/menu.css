@@ -10,6 +10,7 @@ ul {
     display: block;
     width: 330px;
     margin: 0 auto;
+    list-style: none;
 }
 
 #nav>li>a {

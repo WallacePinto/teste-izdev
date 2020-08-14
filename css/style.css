@@ -95,6 +95,27 @@
 
 .menu {
     position: absolute;
-    margin-left: 38%;
+    margin-left: 50%;
     margin-top: 22px;
+}
+
+.lista1 li:before {
+    content: "■";
+    margin: 0 2px;
+    color: #249ED8;
+}
+
+.lista li:before {
+    content: "■";
+    margin: 0 2px;
+    color: #249ED8;
+    line-height: 2.5em;
+}
+
+.lista li {
+    color: #249ED8;
+}
+
+ul {
+    padding: 0;
 }
