@@ -119,3 +119,23 @@
 ul {
     padding: 0;
 }
+
+.btn-primary {
+    background-color: #249ED8;
+    border-color: #249ED8;
+}
+
+.btn-primary:hover {
+    background-color: #2BB7F9;
+    border-color: #2BB7F9;
+}
+
+.btn-success {
+    background-color: #76CD04;
+    border-color: #76CD04;
+}
+
+.btn-success:hover {
+    background-color: #83E601;
+    border-color: #83E601;
+}
