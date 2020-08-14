@@ -11,6 +11,7 @@
 .style-begin {
     margin-top: 20px;
     display: flex;
+    flex-direction: row;
     padding: 10px;
 }
 
@@ -94,10 +95,13 @@
 }
 
 .menu {
-    position: absolute;
-    margin-left: 50%;
-    margin-top: 22px;
+    position: fixed;
+    float: right;
+    margin-left: 72%;
+    margin-top: 20px;
 }
+
+.alinhamento {}
 
 .lista1 li:before {
     content: "■";
