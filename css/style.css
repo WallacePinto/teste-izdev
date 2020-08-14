@@ -1,0 +1,92 @@
+* {
+    font-family: Poppins;
+    color: #565656
+}
+
+.head {
+    background-color: #249ED8;
+}
+
+.style-begin {
+    margin-top: 20px;
+    display: flex;
+    padding: 10px;
+}
+
+.logo {
+    width: 80px;
+}
+
+.logoParagraph {
+    color: #FFF;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    align-self: center;
+    font-family: Poppins;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.img2 {
+    width: 600px;
+    height: auto;
+    height: auto;
+    margin-bottom: 100px;
+}
+
+.img3 {
+    width: 600px;
+    height: auto;
+    height: auto;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+.img4 {
+    width: 600px;
+    height: auto;
+    height: auto;
+    margin-top: 50px;
+}
+
+.divInfo {
+    margin-left: 60px;
+    align-self: center;
+}
+
+.sizeBox {
+    max-width: 960px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.card-img-top {
+    max-width: 155px;
+    max-height: auto;
+    align-self: center;
+    margin-top: 15px;
+}
+
+.card-deck {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+}
+
+.card-text {
+    text-align: center;
+}
+
+.corAzulClaro {
+    color: #249ED8;
+}
+
+.corAzulEscuro {
+    color: #0166A7;
+}
+
+#aspectoMicose {
+    background-color: #E5F4F7;
+    margin-top: 100px;
+}
