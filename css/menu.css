@@ -36,18 +36,3 @@ ul {
     color: #333;
     background-color: #dcdde1;
 }
-
-#foo {
-    position: absolute;
-    top: 400px;
-}
-
-#bar {
-    position: absolute;
-    top: 800px;
-}
-
-#baz {
-    position: absolute;
-    top: 1200px;
-}
