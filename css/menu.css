@@ -8,15 +8,13 @@ ul {
 
 #nav {
     display: block;
-    width: 330px;
     margin: 0 auto;
     list-style: none;
 }
 
 #nav>li>a {
     display: block;
-    padding: 16px 18px;
-    font-size: 16px;
+    font-size: 14px;
     color: #707070;
     text-decoration: none;
     background-color: #F8F8F8;
@@ -24,17 +22,6 @@ ul {
 
 #nav>li>a:hover {
     color: #000;
-}
-
-#nav li ul li a {
-    display: block;
-    background: none;
-    padding: 10px 0px;
-    padding-left: 30px;
-    font-size: 1.1em;
-    text-decoration: none;
-    font-weight: bold;
-    color: #e3e7f1;
 }
 
 #nav li ul li a:hover {

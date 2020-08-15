@@ -18,15 +18,16 @@
 .logo {
     width: 80px;
     height: 80px;
+    margin-top: 10px;
 }
 
-.logoParagraph {
+.logoParagrafo {
     color: #FFF;
     font-weight: bolder;
     letter-spacing: 3px;
     font-family: Poppins;
     margin-left: 20px;
-    margin-top: 15px;
+    margin-top: 25px;
     align-items: center;
 }
 
@@ -96,12 +97,12 @@
 
 .menu {
     position: fixed;
-    float: right;
-    margin-left: 72%;
     margin-top: 20px;
 }
 
-.alinhamento {}
+.alinhamento {
+    margin-top: 0px;
+}
 
 .lista1 li:before {
     content: "■";
@@ -137,9 +138,21 @@ ul {
 .btn-success {
     background-color: #76CD04;
     border-color: #76CD04;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    font-size: 14px;
 }
 
 .btn-success:hover {
     background-color: #83E601;
     border-color: #83E601;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+.inicioTitulo {
+    margin-top: 40px;
 }
